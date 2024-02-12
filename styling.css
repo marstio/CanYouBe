@@ -164,6 +164,12 @@ b2 {
     font-size: 30px;
   }
 
+  #bugcat {
+    position: absolute;
+    margin-bottom: 160%;
+    width: 60%;
+  }
+
   #ice-skating,
   #mcdo,
   #ice-cream,
